@@ -13083,15 +13083,6 @@ linkElement.outerHTML = "<link href='https://fonts.googleapis.com/css2?family=Ru
                                     url: "/he/services?subject=law_and_government&subsubject=fine_collection",
                                     isExternal: !1
                                 }, {
-                                    description: "\u05e8\u05d9\u05e9\u05d5\u05dd \u05de\u05d0\u05d2\u05e8\u05d9 \u05de\u05d9\u05d3\u05e2, \u05e2\u05d3\u05db\u05d5\u05df, \u05d4\u05e2\u05d1\u05e8\u05ea \u05d1\u05e2\u05dc\u05d5\u05ea, \u05de\u05d7\u05d9\u05e7\u05ea \u05de\u05d0\u05d2\u05e8\u05d9\u05dd, \u05d4\u05e2\u05d1\u05e8\u05ea \u05de\u05d9\u05d3\u05e2\n\n",
-                                    navItems: null,
-                                    navItemsUrl: null,
-                                    hasIcon: !1,
-                                    title: "\u05d4\u05d2\u05e0\u05ea \u05d4\u05e4\u05e8\u05d8\u05d9\u05d5\u05ea",
-                                    alt: null,
-                                    url: "/he/services?subject=law_and_government&subsubject=data_protection",
-                                    isExternal: !1
-                                }, {
                                     description: "\u05e8\u05d9\u05e9\u05d5\u05dd, \u05e9\u05d9\u05e0\u05d5\u05d9, \u05d1\u05d9\u05d8\u05d5\u05dc, \u05e2\u05d3\u05db\u05d5\u05df \u05d4\u05e7\u05d3\u05e9 \u05e6\u05d9\u05d1\u05d5\u05e8\u05d9\r\n",
                                     navItems: null,
                                     navItemsUrl: null,
@@ -13099,24 +13090,6 @@ linkElement.outerHTML = "<link href='https://fonts.googleapis.com/css2?family=Ru
                                     title: "\u05d4\u05e7\u05d3\u05e9\u05d5\u05ea",
                                     alt: null,
                                     url: "/he/services?subject=law_and_government&subsubject=charitable_trusts",
-                                    isExternal: !1
-                                }, {
-                                    description: "\u05d1\u05d9\u05d8\u05d5\u05dc\u05d9 \u05d4\u05d2\u05d1\u05dc\u05d5\u05ea \u05d5\u05e2\u05d9\u05e7\u05d5\u05dc\u05d9\u05dd, \u05d1\u05d9\u05d8\u05d5\u05dc \u05e2\u05d9\u05db\u05d5\u05d1 \u05d9\u05e6\u05d9\u05d0\u05d4 \u05de\u05d4\u05d0\u05e8\u05e5, \u05d3\u05d7\u05d9\u05d9\u05ea \u05d4\u05e6\u05d2\u05ea \u05de\u05e1\u05de\u05db\u05d9\u05dd\n",
-                                    navItems: null,
-                                    navItemsUrl: null,
-                                    hasIcon: !1,
-                                    title: "\u05d7\u05d9\u05d9\u05d1\u05d9\u05dd \u05d1\u05d4\u05d5\u05e6\u05d0\u05d4 \u05dc\u05e4\u05d5\u05e2\u05dc",
-                                    alt: null,
-                                    url: "/he/services?subject=law_and_government&subsubject=execution_owe",
-                                    isExternal: !1
-                                }, {
-                                    description: "\u05de\u05d0\u05d2\u05e8 \u05d4\u05d7\u05e7\u05d9\u05e7\u05d4 \u05d4\u05dc\u05d0\u05d5\u05de\u05d9, \u05d0\u05ea\u05e8 \u05d4\u05e8\u05e9\u05d5\u05de\u05d5\u05ea, \u05ea\u05d6\u05db\u05d9\u05e8\u05d9 \u05d7\u05d5\u05e7, \u05d7\u05e7\u05d9\u05e7\u05d4 \u05d1\u05d0\u05d6\u05d5\u05e8 \u05d9\u05d4\u05d5\u05d3\u05d4 \u05d5\u05e9\u05d5\u05de\u05e8\u05d5\u05df\r\n",
-                                    navItems: null,
-                                    navItemsUrl: null,
-                                    hasIcon: !1,
-                                    title: "\u05d7\u05e7\u05d9\u05e7\u05d4",
-                                    alt: null,
-                                    url: "/he/services?subject=law_and_government&subsubject=legislation",
                                     isExternal: !1
                                 }, {
                                     description: "\u05d1\u05e7\u05e9\u05d4 \u05dc\u05e1\u05d9\u05d5\u05e2 \u05de\u05e9\u05e4\u05d8\u05d9, \u05e0\u05e4\u05d2\u05e2\u05d9 \u05e2\u05d1\u05d9\u05e8\u05d4, \u05d1\u05e7\u05e9\u05d4 \u05dc\u05d4\u05e2\u05ea\u05e7\u05ea \u05d7\u05d5\u05de\u05e8\u05d9 \u05d7\u05e7\u05d9\u05e8\u05d4\n",
