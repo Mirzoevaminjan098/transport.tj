@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JavaScript Logo</title>
+<style>
+    body {
+        margin: 0;
+        overflow: hidden;
+        background-color: #f0f0f0;
+    }
+    canvas {
+        display: block;
+        margin: auto;
+    }
+</style>
+</head>
+<body>
+<canvas id="logoCanvas" width="300" height="300"></canvas>
+<script>
+    const canvas = document.getElementById('logoCanvas');
+    const ctx = canvas.getContext('2d');
+    
+    // Drawing the 'J' shape
+    ctx.beginPath();
+    ctx.moveTo(50, 100);
+    ctx.lineTo(150, 100);
+    ctx.lineTo(150, 50);
+    ctx.lineTo(100, 50);
+    ctx.lineTo(100, 150);
+    ctx.lineTo(150, 150);
+    ctx.lineTo(150, 200);
+    ctx.lineTo(50, 200);
+    ctx.lineTo(50, 100);
+    ctx.closePath();
+    ctx.fillStyle = '#f0db4f';
+    ctx.fill();
+
+    // Drawing the 'S' shape
+    ctx.beginPath();
+    ctx.moveTo(200, 50);
+    ctx.bezierCurveTo(200, 30, 220, 30, 220, 50);
+    ctx.bezierCurveTo(220, 70, 200, 70, 200, 90);
+    ctx.bezierCurveTo(200, 110, 220, 110, 220, 130);
+    ctx.bezierCurveTo(220, 150, 200, 150, 200, 170);
+    ctx.lineTo(250, 170);
+    ctx.lineTo(250, 50);
+    ctx.lineTo(200, 50);
+    ctx.closePath();
+    ctx.fillStyle = '#000000';
+    ctx.fill();
+
+    // Drawing the 'Text' part
+    ctx.font = 'bold 20px Arial';
+    ctx.fillStyle = '#000000';
+    ctx.fillText('JavaScript', 50, 250);
+
+</script>
+</body>
+</html>
